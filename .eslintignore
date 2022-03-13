@@ -1,0 +1,6 @@
+/public
+/node_modules
+/dist
+/*.js
+/src/utils/encryption/aesEncrypt.js
+/src/utils/LodopFuncs.js
